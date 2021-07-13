@@ -1,0 +1,15 @@
+name: barcode_widgets
+description: >
+  Barcode Widgets is a Flutter library for simple and fast Bar code rendering via a custom painter.
+version: 1.1.2
+homepage: https://github.com/bigship/barcode.flutter
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
