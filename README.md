@@ -1,4 +1,4 @@
-__Barcode Widgets is a Flutter library for simple and fast Barcode rendering via custom painter.This project is copy from [barcode_flutter](https://github.com/bigship/barcode.flutter),and support Null Safe__
+__Barcode Widgets is a Flutter library for simple and fast Barcode rendering via custom painter.This project was copied from [barcode_flutter](https://github.com/bigship/barcode.flutter), and support Null Safe__
 
 ![screenshot](https://i.ibb.co/58S2psy/barcode-flutter.png)
 <hr>
